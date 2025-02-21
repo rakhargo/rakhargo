@@ -6,10 +6,10 @@ I'm currently a 5th-semester Computer Science student at **Indonesia University 
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently Working On**: Artificial Intelligence and Web3 projects.
+- 🔭 **Currently Working On**: Artificial Intelligence and Machine Learning projects.
 - 🌱 **Learning Focus**: Web3/Blockchain and Language Model/NLP.
 - 💡 **Passion**: Solving real-world problems using data-driven solutions.
-- 🌏 **Goal**: Bridging the gap between research and practical AI applications.
+- 🌏 **Goal**: Bridging the gap between research and practical AI & Web3 applications.
 
 ---
 
