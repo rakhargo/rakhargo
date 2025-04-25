@@ -1,7 +1,7 @@
 ## Hi there, I'm Rakha Dhifiargo Hariadi 👋
 
 🎓 **Computer Science Student** | 🎯 **Aspiring Ai Engineer**  
-I'm currently a 5th-semester Computer Science student at **Indonesia University of Education**, specializing in **Artificial Intelligence** and **Web3**.
+I'm currently a 6th-semester Computer Science student at **Indonesia University of Education**, specializing in **Artificial Intelligence** and **Web3**.
 
 ---
 
