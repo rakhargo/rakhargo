@@ -6,7 +6,7 @@ I'm currently a 6th-semester Computer Science student at **Indonesia University 
 ---
 
 ### 🚀 About Me
-- 🔭 **Currently Working On**: Artificial Intelligence and Machine Learning projects.
+- 🔭 **Currently Working On**: Web3 projects.
 - 🌱 **Learning Focus**: Web3/Blockchain and Language Model/NLP.
 - 💡 **Passion**: Solving real-world problems using data-driven solutions.
 - 🌏 **Goal**: Bridging the gap between research and practical AI & Web3 applications.
@@ -14,7 +14,7 @@ I'm currently a 6th-semester Computer Science student at **Indonesia University 
 ---
 
 ### 🛠️ Tech Stack
-- **Languages**: Python, C, C++
+- **Languages**: Python, C, C++, Solidity
 - **Libraries/Frameworks**: TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy
 - **Tools**: Jupyter Notebook, VS Code, Git 
 - **Areas of Interest**: Natural Language Processing, Machine Learning, Artificial Intelligence, LLM, Web3, Blockchain
