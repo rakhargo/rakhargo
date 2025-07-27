@@ -23,7 +23,7 @@ I'm currently a 7th-semester Computer Science student at **Indonesia University 
 
 
 ### 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakhargo&theme=tokyonight&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhargo&layout=compact&theme=tokyonight)
+![Rakha's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakhargo&theme=tokyonight&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhargo&layout=compact&theme=tokyonight)
 
 <!--
 ---
